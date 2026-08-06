@@ -1,0 +1,10 @@
+^C:\USERS\MARCO SIGUENZA\DOCUMENTS\OCTAVO SEMESTRE\PROGRAMACION DISPOSITIVOS MOBILES\TAREAS\ENTREGAS\S06\FITNESS_ROUTE\BUILD\WINDOWS\X64\CMAKEFILES\B67410828D43CEFE41C45D5495D9EB3F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Marco Siguenza/Documents/Octavo semestre/Programacion Dispositivos mobiles/Tareas/entregas/S06/fitness_route/windows" "-BC:/Users/Marco Siguenza/Documents/Octavo semestre/Programacion Dispositivos mobiles/Tareas/entregas/S06/fitness_route/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Marco Siguenza/Documents/Octavo semestre/Programacion Dispositivos mobiles/Tareas/entregas/S06/fitness_route/build/windows/x64/fitness_route.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

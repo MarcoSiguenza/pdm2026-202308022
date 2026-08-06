@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{59E2DB2B-9D69-3CB8-9318-74BB5930AD1E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
