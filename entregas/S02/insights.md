@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 - [INSIGHT]: Los usuarios desean llevar un seguimiento de su entrenamiento, pero el método que utilizan no se adapta a su rutina diaria, por lo que el registro termina siendo una tarea secundaria.
 - [INSIGHT]: Las personas mantienen el hábito de entrenar incluso cuando no llevan un registro adecuado; el verdadero obstáculo no es hacer ejercicio, sino conservar un seguimiento organizado de su progreso.
 - [INSIGHT]: Los usuarios necesitan evidencia de su progreso para mantenerse orientados hacia sus objetivos.
+=======
+- [INSIGHT]: Los usuarios desean llevar un seguimiento de su entrenamiento, pero el método que utilizan no se adapta a su rutina diaria, por lo que el registro termina siendo una tarea secundaria.
+- [INSIGHT]: Las personas mantienen el hábito de entrenar incluso cuando no llevan un registro adecuado; el verdadero obstáculo no es hacer ejercicio, sino conservar un seguimiento organizado de su progreso.
+- [INSIGHT]: Los usuarios necesitan evidencia de su progreso para mantenerse orientados hacia sus objetivos.
+>>>>>>> f2a7b6f63d0c61913abf7ae25ca445a5becde1ea
 - [INSIGHT]: DescubrI que los usuarios desean ver su progreso, pero los métodos que utilizan para registrar sus entrenamientos dificultan llevar un seguimiento constante.
