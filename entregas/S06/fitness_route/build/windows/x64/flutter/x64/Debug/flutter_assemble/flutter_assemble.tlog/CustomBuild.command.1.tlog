@@ -1,0 +1,28 @@
+^C:\USERS\MARCO SIGUENZA\DOCUMENTS\OCTAVO SEMESTRE\PROGRAMACION DISPOSITIVOS MOBILES\TAREAS\ENTREGAS\S06\FITNESS_ROUTE\BUILD\WINDOWS\X64\CMAKEFILES\4375A43DC949A159025C32CF5D9E2FA1\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter_windows_3.44.5-stable\flutter "PROJECT_DIR=C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route" FLUTTER_ROOT=C:\src\flutter_windows_3.44.5-stable\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route" "FLUTTER_TARGET=C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\lib\main.dart" DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuNDQuOA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049MDU4ZTBhZjJjMg==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MGNkNjEwNzE3Yg==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4y DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Marco Siguenza\Documents\Octavo semestre\Programacion Dispositivos mobiles\Tareas\entregas\S06\fitness_route\.dart_tool\package_config.json" C:/src/flutter_windows_3.44.5-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCO SIGUENZA\DOCUMENTS\OCTAVO SEMESTRE\PROGRAMACION DISPOSITIVOS MOBILES\TAREAS\ENTREGAS\S06\FITNESS_ROUTE\BUILD\WINDOWS\X64\CMAKEFILES\49CB3E224FC085276969C7A2F5F9BE3D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARCO SIGUENZA\DOCUMENTS\OCTAVO SEMESTRE\PROGRAMACION DISPOSITIVOS MOBILES\TAREAS\ENTREGAS\S06\FITNESS_ROUTE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Marco Siguenza/Documents/Octavo semestre/Programacion Dispositivos mobiles/Tareas/entregas/S06/fitness_route/windows" "-BC:/Users/Marco Siguenza/Documents/Octavo semestre/Programacion Dispositivos mobiles/Tareas/entregas/S06/fitness_route/build/windows/x64" --check-stamp-file "C:/Users/Marco Siguenza/Documents/Octavo semestre/Programacion Dispositivos mobiles/Tareas/entregas/S06/fitness_route/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

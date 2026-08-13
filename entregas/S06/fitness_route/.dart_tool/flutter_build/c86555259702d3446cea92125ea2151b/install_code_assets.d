@@ -1,0 +1,1 @@
+ C:\\Users\\Marco\ Siguenza\\Documents\\Octavo\ semestre\\Programacion\ Dispositivos\ mobiles\\Tareas\\entregas\\S06\\fitness_route\\.dart_tool\\flutter_build\\c86555259702d3446cea92125ea2151b\\native_assets.json: 
