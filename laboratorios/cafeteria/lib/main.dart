@@ -29,7 +29,18 @@ class _PantallaPedidoState extends State<PantallaPedido> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Mi pedido')),
-      body: const Center(child: Text('Aquí irán los productos')),
+      body: const Center(child: Text('Productos')),
     );
+  }
+}
+
+class Producto {
+  final String nombre;
+  final double precio;
+  int cantidad;
+
+  Producto{
+    this.nombre required;
+    this.precio required;
   }
 }
